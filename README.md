@@ -34,9 +34,3 @@ covering EPA-monitored stations across Texas.
 
 ## Preview
 Open `texas_air_quality_map.html` in your browser for a live interactive demo.
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme)
-
-print("README created!")
