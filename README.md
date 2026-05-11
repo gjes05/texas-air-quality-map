@@ -1,4 +1,4 @@
-    readme = """# Texas Air Quality Monitor 🌍
+Texas Air Quality Monitor 🌍
 
 An interactive GIS map visualizing real-time air quality index (AQI) data across Texas, built with the ArcGIS Python API and live data from the World Air Quality Index (WAQI) API.
 
